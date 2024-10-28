@@ -21,7 +21,7 @@ let package = Package(
   targets: [
     PerimeterX_SDK,
     .target(
-        name: "PerimeterX_SDK",
+        name: "PerimeterX_SDK_Stub",
         path: "Sources",
         resources: [
             .copy("Resources/PrivacyInfo.xcprivacy")
