@@ -5,8 +5,8 @@ import PackageDescription
 
 let PerimeterX_SDK = Target.binaryTarget(
   name: "PerimeterX_SDK",
-  url: "https://github.com/PerimeterX/px-iOS-Framework/releases/download/3.2.2/PerimeterX_SDK.xcframework.zip",
-  checksum: "d0dbd58eef76236b7dff6f28c65f5593fe71df6b5a5471c82d2f8587520097aa"
+  url: "https://github.com/PerimeterX/px-iOS-Framework/releases/download/3.2.3/PerimeterX_SDK.xcframework.zip",
+  checksum: "496c2022f3bf869819f81b59c9634424a997bc0df7baa819cb1e714de0cf27d0"
 )
 
 let package = Package(
